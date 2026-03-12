@@ -21,3 +21,5 @@ exports {
 	'GetFuel',
 	'SetFuel'
 }
+
+dependency 'core_business'
